@@ -1,0 +1,188 @@
+commit f6f4b1874706c165655521eae7d666eac65aea8c (HEAD -> main)
+Author: Christian Perea Ferrández <pereachristian09@gmail.com>
+Date:   Tue Apr 14 11:39:20 2026 +0200
+
+    Actualiza main antes de integrar A
+
+commit 3ede0d2645a533398e453615eb5bb95551240531
+Author: Christian Perea Ferrández <pereachristian09@gmail.com>
+Date:   Tue Apr 14 11:35:37 2026 +0200
+
+    Commit inicial
+
+commit a632dcd34b827e2557693004059aeebb4a997cc4 (origin/main, origin/HEAD)
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Tue Apr 14 09:32:39 2026 +0000
+
+    add deadline
+
+commit c196b2aff95dd875c278c20e3c1931885c94723c
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Apr 9 15:16:43 2026 +0000
+
+    Initial commit
+ ESCOC
+
+
+
+
+1240531
+christian09@gmail.com>
+
+
+
+
+a997cc4 (origin/main, origin/HEAD)
+github-classroom[bot]@users.noreply.github.com>
+
+
+
+
+c94723c
+github-classroom[bot]@users.noreply.github.com>
+
+
+
+~
+~
+ ESCOC
+
+
+
+
+
+
+
+
+
+
+
+
+ub.com>
+
+
+
+
+
+ub.com>
+
+
+
+~
+ ESCOD
+christian09@gmail.com>
+
+
+
+
+1240531
+christian09@gmail.com>
+
+
+
+
+a997cc4 (origin/main, origin/HEAD)
+github-classroom[bot]@users.noreply.github.com>
+
+
+
+
+c94723c
+github-classroom[bot]@users.noreply.github.com>
+
+
+
+~
+ ESCOD
+Author: Christian Perea Ferrández <pereachristian09@gmail.com>
+Date:   Tue Apr 14 11:39:20 2026 +0200
+
+    Actualiza main antes de integrar A
+
+commit 3ede0d2645a533398e453615eb5bb95551240531
+Author: Christian Perea Ferrández <pereachristian09@gmail.com>
+Date:   Tue Apr 14 11:35:37 2026 +0200
+
+    Commit inicial
+
+commit a632dcd34b827e2557693004059aeebb4a997cc4 (origin/main, origin/HEAD)
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Tue Apr 14 09:32:39 2026 +0000
+
+    add deadline
+
+commit c196b2aff95dd875c278c20e3c1931885c94723c
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Apr 9 15:16:43 2026 +0000
+
+ ESCOD
+Author: Christian Perea Ferrández <pereachristian09@gmail.com>
+Date:   Tue Apr 14 11:39:20 2026 +0200
+
+    Actualiza main antes de integrar A
+
+commit 3ede0d2645a533398e453615eb5bb95551240531
+Author: Christian Perea Ferrández <pereachristian09@gmail.com>
+Date:   Tue Apr 14 11:35:37 2026 +0200
+
+    Commit inicial
+
+commit a632dcd34b827e2557693004059aeebb4a997cc4 (origin/main, origin/HEAD)
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Tue Apr 14 09:32:39 2026 +0000
+
+    add deadline
+
+commit c196b2aff95dd875c278c20e3c1931885c94723c
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Apr 9 15:16:43 2026 +0000
+
+ ESCOD
+Author: Christian Perea Ferrández <pereachristian09@gmail.com>
+Date:   Tue Apr 14 11:39:20 2026 +0200
+
+    Actualiza main antes de integrar A
+
+commit 3ede0d2645a533398e453615eb5bb95551240531
+Author: Christian Perea Ferrández <pereachristian09@gmail.com>
+Date:   Tue Apr 14 11:35:37 2026 +0200
+
+    Commit inicial
+
+commit a632dcd34b827e2557693004059aeebb4a997cc4 (origin/main, origin/HEAD)
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Tue Apr 14 09:32:39 2026 +0000
+
+    add deadline
+
+commit c196b2aff95dd875c278c20e3c1931885c94723c
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Apr 9 15:16:43 2026 +0000
+
+    Initial commit
+
+f6f4b18 (HEAD -> main) Actualiza main antes de integrar A
+3ede0d2 Commit inicial
+a632dcd (origin/main, origin/HEAD) add deadline
+c196b2a Initial commit
+
+* f6f4b18 (HEAD -> main) Actualiza main antes de integrar A
+* 3ede0d2 Commit inicial
+* a632dcd (origin/main, origin/HEAD) add deadline
+* c196b2a Initial commit
+
+* f6f4b18 (HEAD -> main) Actualiza main antes de integrar A
+| * 00059e0 (feature-b) Añade funcionalidad B
+|/  
+| * c169a7a (feature-a) Añade funcionalidad A
+|/  
+* 3ede0d2 Commit inicial
+* a632dcd (origin/main, origin/HEAD) add deadline
+* c196b2a Initial commit
+
+f6f4b18 (HEAD -> main) Actualiza main antes de integrar A
+3ede0d2 Commit inicial
+
+alias "log --oneline --graph --decorate --all"
+
+me parecen mas utiles los comandos git --oneline porque me muestra un log bastante facil de leer  y git --oneline --all me muestra un commit facil de leer pero mas extenso que --oneline a secas
