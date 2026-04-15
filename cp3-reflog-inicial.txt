@@ -1,0 +1,11 @@
+f6f4b18 (HEAD -> main) HEAD@{0}: commit: Actualiza main antes de integrar A
+3ede0d2 HEAD@{1}: checkout: moving from feature-b to main
+00059e0 (feature-b) HEAD@{2}: commit: Añade funcionalidad B
+3ede0d2 HEAD@{3}: checkout: moving from main to feature-b
+3ede0d2 HEAD@{4}: checkout: moving from feature-a to main
+c169a7a (feature-a) HEAD@{5}: commit: Añade funcionalidad A
+3ede0d2 HEAD@{6}: checkout: moving from main to feature-a
+3ede0d2 HEAD@{7}: commit: Commit inicial
+a632dcd (origin/main, origin/HEAD) HEAD@{8}: clone: from github.com:IES-Torrevigia-FP/actividad-6-10-git-log-git-reflog-leer-historial-commits-pereachristian09-bot.git
+
+git log me muestra solo el historial de mis acciones/commits mientras que en git reflog muestras ademas de lo anterior muestra mis movimientos como mi dezplazamiento entre ramas 
