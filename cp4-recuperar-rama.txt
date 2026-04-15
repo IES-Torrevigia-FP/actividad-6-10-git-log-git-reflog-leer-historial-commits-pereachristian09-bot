@@ -1,0 +1,5 @@
+00059e0 HEAD@{2}: commit: Añade funcionalidad B
+
+git branch feature-b-recuperada 00059e0
+
+porque nos muestra un historial de en que carpeta estabamos en ese momento pudiendo asi saber con mas certeza a donde pertenica cada commit permitiendo recuperar ramas mas facil
