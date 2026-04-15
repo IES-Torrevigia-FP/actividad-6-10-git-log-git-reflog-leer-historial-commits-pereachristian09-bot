@@ -1,0 +1,7 @@
+git reset --hard f6f4b18
+
+68b79cf (HEAD -> main) HEAD@{3}: commit (merge): prueba1
+
+git reset --hard 68b79cf
+
+
